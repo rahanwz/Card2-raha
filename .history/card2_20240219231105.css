@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  background-color: black;
+  padding: 2rem;
+}
+.card_container {
+  background-color: aquamarine;
+}
+.card_container p {
+  text-align: center;
+}
+.present {
+  background-color: brown;
+  
+}
+.present p {
+  background-color: #f57d1f;
+  height: 21vh;
+  width: 50%;
+  border-radius: 100%;
+}
+
+.top_card {
+  background-color: blue;
+}
+.bottom_card {
+  background-color: chartreuse;
+}

@@ -1,0 +1,43 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+.container{
+background-color: black;
+padding: 5rem;
+
+}
+.card_container{
+background-color: aquamarine;
+
+
+
+}
+.card_container p{
+
+text-align: center;
+
+}
+.present{
+    background-color: #F57D1F;
+    text-align: center;
+    width: ;
+}
+
+.top_card{
+background-color: blue;
+
+
+}
+.bottom_card{
+
+    background-color: chartreuse;
+}
+
+
+

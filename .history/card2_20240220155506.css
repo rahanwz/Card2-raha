@@ -1,0 +1,97 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  background-color: black;
+  padding: 2rem;
+}
+.card_container {
+  background-color: aquamarine;
+ 
+}
+.card_container {
+  text-align: center;
+}
+
+.top_card :first-child {
+  padding: 1rem;
+}
+.present :first-child {
+  font-size: 2.5rem;
+  padding-top: 1.75rem;
+}
+
+.present {
+  background-color: #f57d1f;
+  height: 20vh;
+  width: 40%;
+  border-radius: 100%;
+  background-color: brown;
+  margin: auto;
+}
+
+.describ {
+  padding: 1rem;
+}
+
+.top_card {
+  background-color: blue;
+}
+
+.bottom_card :first-child {
+  padding: 1rem 2rem;
+  display: flex;
+}
+
+.bottom_card {
+  background-color: chartreuse;
+
+}
+
+.bottom_card .box {
+  display: flex;
+  padding: 0.5rem;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.box1 p{
+  background-color: bisque;
+  width: 100%;
+  height: 8.5vh;
+  display: flex;
+}
+
+.box2 p {
+  background-color: cyan;
+  
+  width: 100%;
+  height: 8.5vh;
+  display: flex;
+}
+.box3 p{
+  background-color: rgb(30, 11, 50);
+   width: 100%;
+  height: 8.5vh;
+  display: flex;
+}
+
+.box4 p {
+  background-color: rgb(255, 70, 2);
+  width: 100%;
+  height: 8.5vh;
+  display: flex;
+}
+
+.number{
+display:flex;
+
+}
+
+

@@ -1,0 +1,29 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+.container{
+background-color: black;
+
+
+}
+.card_container{
+background-color: aquamarine;
+
+
+
+}
+
+.top_card{
+background-color: blue;
+
+
+}
+.bottom_card{
+
+    background-color: chartreuse;
+}
+
+
+

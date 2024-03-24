@@ -1,0 +1,54 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  background-color: black;
+  padding: 2rem;
+}
+.card_container {
+  background-color: aquamarine;
+}
+.card_container {
+  text-align: center;
+}
+
+.top_card :first-child {
+  padding: 1rem;
+}
+.present :first-child {
+  font-size: 2.5rem;
+  padding-top: 1.75rem;
+}
+
+.present {
+  background-color: #f57d1f;
+  height: 20vh;
+  width: 45%;
+  border-radius: 100%;
+  background-color: brown;
+  margin: auto;
+}
+
+.describ {
+  padding: 1rem;
+}
+
+.top_card {
+  background-color: blue;
+}
+
+.bottom_card :first-child {
+  padding: 1rem;
+  fl
+}
+
+.bottom_card {
+  background-color: chartreuse;
+  height: 100%;
+}
